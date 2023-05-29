@@ -1,2 +1,2 @@
 # discordbot
- discordbot that answers
+ discordbot that answers back when you tag or say a specific word
