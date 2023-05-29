@@ -1,2 +1,2 @@
 # discordbot
- discordbot that answers back when you tag or say a specific word
+ TagResponder is a Python-based Discord bot that enhances server interaction. It responds instantly when tagged or when specific keywords are mentioned. Keep your community engaged, acknowledge important messages, and provide timely assistance with TagResponder's automated replies. Simple to set up and use, this bot ensures no message goes unnoticed, making it a valuable addition to any Discord server.
